@@ -1,0 +1,6 @@
+{
+    "mongooURI":"mongodb+srv://abz282:abz282_@devconnector.oiepthu.mongodb.net/?retryWrites=true&w=majority",
+    "jwtToken" : "mySecret",
+    "githubClientId":"8f33364b97e0a9b15854",
+    "githubSecret": "13531ce62d64347f6365e56006851b5334121557"
+}
